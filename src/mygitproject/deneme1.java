@@ -3,7 +3,8 @@ package mygitproject;
 public class deneme1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("uzak sunucudaki kodum");// Githup .com daki yeni kodum
+		
 
 	}
 
