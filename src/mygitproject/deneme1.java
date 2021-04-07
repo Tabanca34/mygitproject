@@ -6,6 +6,8 @@ public class deneme1 {
 		System.out.println("uzak sunucudaki kodum");// Githup .com daki yeni kodum
 		System.out.println("bu satiri ekledim");
 		
+		
+		System.out.println("Merhaba İstanbul");
 
 		
 		
