@@ -7,7 +7,7 @@ public class deneme1 {
 		System.out.println("bu satiri ekledim");
 		
 		
-		System.out.println("Merhaba İstanbul");
+		System.out.println("Merhaba istanbul");
 
 		
 		
