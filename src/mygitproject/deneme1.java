@@ -15,7 +15,7 @@ public class deneme1 {
 		
 		
 		
-		System.out.println("16.satır");
+	
 	}
 
 }
